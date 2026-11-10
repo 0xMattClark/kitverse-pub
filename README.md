@@ -6,22 +6,24 @@
 
 <p align="center">
   <strong>Every kit. One verse.</strong><br>
-  Free, local-first browser tools for AI builders and developers.
+  Free Developer & AI Tools, No Signup
 </p>
 
 <p align="center">
   <a href="https://kitverse.dev/">Website</a> ·
-  <a href="https://kitverse.dev/tools">Browse all tools</a> ·
-  <a href="https://kitverse.dev/zh-cn/">中文版</a> ·
+  <a href="https://kitverse.dev/ai-tools/">AI tools</a> ·
+  <a href="https://kitverse.dev/newword/">New Term Express</a> ·
+  <a href="https://kitverse.dev/tools/">Browse all tools</a> ·
   <a href="https://github.com/0xMattClark/kitverse-pub/issues">Feedback</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/tools-150%2B-67e8f9" alt="150+ tools">
+  <img src="https://img.shields.io/badge/AI-tools-67e8f9" alt="AI tools">
   <img src="https://img.shields.io/badge/processing-local--first-success" alt="Local-first processing">
   <img src="https://img.shields.io/badge/signup-not%20required-blue" alt="No signup required">
   <img src="https://img.shields.io/badge/offline-supported-lightgrey" alt="Works offline">
 </p>
+
 
 ## About KitVerse
 
@@ -50,11 +52,11 @@ Audit agent skills and MCP configurations before giving them access to your tool
 
 [Open Skill Security Scanner](https://kitverse.dev/ai-tools/skill-security-scanner/)
 
-> **Note:** Static findings guide manual review. A clean scan does not prove that a package is safe. Test unknown packages in an isolated environment before installation.
-
 ### PUA AI Generator
 
 Generate pressure prompts and complete skill files that encourage AI coding agents to exhaust every option before giving up. Choose a language and flavor, generate prompts locally, and turn a useful prompt into a reusable agent skill.
+
+[Open PUA/PIP AI Generator](https://kitverse.dev/ai-tools/pip-ai-generator/)
 
 ### API Playground
 
@@ -122,7 +124,6 @@ Please do not include secrets, credentials, private API keys, or other sensitive
 ## Useful Links
 
 - [KitVerse.dev](https://kitverse.dev/)
-- [All tools](https://kitverse.dev/tools)
 - [Skill Security Scanner](https://kitverse.dev/ai-tools/skill-security-scanner/)
 - [API Playground](https://kitverse.dev/ai-tools/api-playground/)
 - [QR Code Generator](https://kitverse.dev/tools/qr-code-generator/)
